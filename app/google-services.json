@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "658386298209",
+    "firebase_url": "https://bilancerunified-1040f.firebaseio.com",
+    "project_id": "bilancerunified-1040f",
+    "storage_bucket": "bilancerunified-1040f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658386298209:android:34c53748e99f45a8",
+        "android_client_info": {
+          "package_name": "com.example.user.bilancerunified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658386298209-3oecjq91u6tj4k0vhvmnk9uusp1a3gli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.bilancerunified",
+            "certificate_hash": "84cc7d965289aecd6f5615d0ae434d5e8251437f"
+          }
+        },
+        {
+          "client_id": "658386298209-s0kleqm6plgll05djpas52s2ota2p5on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.bilancerunified",
+            "certificate_hash": "ba62a39447391e90b27607e8d740a58af00d1a21"
+          }
+        },
+        {
+          "client_id": "658386298209-p9cqrrvftjalh0kulabsms1hk4gjsnp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9Rw1U7S8H5saMPxHbgoVjQG95Iu7xJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658386298209-p9cqrrvftjalh0kulabsms1hk4gjsnp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658386298209:android:d5c45ca445a94112",
+        "android_client_info": {
+          "package_name": "com.example.m4hmmd.bilancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658386298209-6s8ucsap7npf7jh26gpj2glg0c31drlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.m4hmmd.bilancer",
+            "certificate_hash": "84cc7d965289aecd6f5615d0ae434d5e8251437f"
+          }
+        },
+        {
+          "client_id": "658386298209-p9cqrrvftjalh0kulabsms1hk4gjsnp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9Rw1U7S8H5saMPxHbgoVjQG95Iu7xJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658386298209-p9cqrrvftjalh0kulabsms1hk4gjsnp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
